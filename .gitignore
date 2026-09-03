@@ -1,3 +1,10 @@
+util/ar/testdata/linux/bar.cc.o
+util/ar/testdata/linux/foo.c.o
+util/ar/testdata/linux/libsample.a
+util/ar/testdata/mac/bar.cc.o
+util/ar/testdata/mac/foo.c.o
+util/ar/testdata/mac/libsample.a
+
 build-c-ipfs/
 
 /bazel-*
