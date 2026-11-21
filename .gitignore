@@ -48,3 +48,5 @@ build-c-ipfs/
 /.vscode/
 /.cache/
 /dist/
+
+third_party/wycheproof_testvectors/aes_ff1_base85_test.json
